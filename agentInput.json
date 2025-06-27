@@ -1,0 +1,11 @@
+[
+  {
+    "pain_point": "string - description of the business challenge",
+    "channel": ["array", "of", "strings - affected communication channels"],
+    "industry": "string - business sector",
+    "company_size": "string - Small, Medium, Large",
+    "customer_segment": "string - B2C or B2B"
+  }
+  
+]
+

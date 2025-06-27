@@ -1,0 +1,18 @@
+[
+  {
+    "suggested_solutions": [
+      {
+        "feature_name": "Name of the Filum.ai feature (with category)",
+        "description": "Brief explanation of how this feature helps address the pain point.",
+        "relevance_score": "Numeric score between 0 and 1 indicating the strength of the match.",
+        "more_info_url": "link"
+      },
+      {
+        "feature_name": "Name of the Filum.ai feature (with category)",
+        "description": "Brief explanation of how this feature helps address the pain point.",
+        "relevance_score": "Numeric score between 0 and 1 indicating the strength of the match.",
+        "more_info_url": "link"
+      }
+    ]
+  }
+]

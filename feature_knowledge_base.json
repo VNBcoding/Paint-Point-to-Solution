@@ -1,0 +1,79 @@
+{
+  "features": [
+    {
+      "feature_id": "F001",
+      "name": "Automated Post-Purchase Surveys (VoC - Surveys)",
+      "description": "Triggers surveys automatically via email or SMS following a transaction, improving feedback collection rates without manual effort.",
+      "channels_supported": ["Email", "SMS"],
+      "industries": ["Retail", "E-commerce", "Hospitality"],
+      "company_sizes": ["Small", "Medium", "Large"],
+      "customer_segments": ["B2C"],
+      "pain_points_addressed": [
+        "Inconsistent customer feedback collection after purchase",
+        "Low response rates to manual surveys"
+      ],
+      "keywords": ["surveys", "post-purchase", "automated feedback"],
+      "more_info_url": "https://filum.ai/"
+    },
+    {
+      "feature_id": "F002",
+      "name": "AI Agent for FAQ & First Response (AI Customer Service - AI Inbox)",
+      "description": "Automatically handles frequent and repetitive queries, reducing agent load and improving first-response speed.",
+      "channels_supported": ["Chat", "Email", "Messaging Platforms"],
+      "industries": ["Telecommunications", "Finance", "E-commerce"],
+      "company_sizes": ["Medium", "Large"],
+      "customer_segments": ["B2C", "B2B"],
+      "pain_points_addressed": [
+        "High volume of repetitive customer queries",
+        "Slow first response times from support"
+      ],
+      "keywords": ["AI agent", "FAQ automation", "support bot"],
+      "more_info_url": "https://filum.ai/"
+    },
+    {
+      "feature_id": "F003",
+      "name": "Customer Journey Experience Analysis (Insights - Experience)",
+      "description": "Aggregates and analyzes feedback across touchpoints to pinpoint where experience breaks down, enabling focused improvements.",
+      "channels_supported": ["Email", "Chat", "Voice"],
+      "industries": ["Retail", "Banking", "Healthcare"],
+      "company_sizes": ["Medium", "Large"],
+      "customer_segments": ["B2C", "B2B"],
+      "pain_points_addressed": [
+        "Unclear customer pain points across touchpoints",
+        "Lack of insight into experience bottlenecks"
+      ],
+      "keywords": ["customer journey", "friction points", "experience analysis"],
+      "more_info_url": "https://filum.ai"
+    },
+    {
+      "feature_id": "F004",
+      "name": "Customer Profile with Interaction History (Customer 360 - Customers & AI Inbox)",
+      "description": "Builds a unified profile of each customer by stitching together historical interactions across all channels.",
+      "channels_supported": ["Email", "Chat", "Phone"],
+      "industries": ["Finance", "Telecommunications", "E-commerce"],
+      "company_sizes": ["Medium", "Large"],
+      "customer_segments": ["B2C", "B2B"],
+      "pain_points_addressed": [
+        "Fragmented customer data across systems",
+        "No single view of customer history during support"
+      ],
+      "keywords": ["customer 360", "interaction history", "unified view"],
+      "more_info_url": "https://filum.ai"
+    },
+    {
+      "feature_id": "F005",
+      "name": "AI-Powered Topic & Sentiment Analysis (VoC - Conversations/Surveys, Insights - Experience)",
+      "description": "Uses natural language processing to extract topics and sentiment trends at scale, delivering real-time insights with minimal manual effort.",
+      "channels_supported": ["Email", "Social Media", "Surveys", "Chat"],
+      "industries": ["Retail", "Telecommunications", "Finance"],
+      "company_sizes": ["Large"],
+      "customer_segments": ["B2C", "B2B"],
+      "pain_points_addressed": [
+        "Manual analysis of open-ended survey feedback is time-consuming",
+        "Hard to detect emerging customer sentiment trends in real time"
+      ],
+      "keywords": ["sentiment analysis", "topic modeling", "NLP", "text analytics"],
+      "more_info_url": "https://filum.ai"
+    }
+  ]
+}
