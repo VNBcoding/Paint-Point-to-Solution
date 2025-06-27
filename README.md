@@ -23,9 +23,12 @@ Demo Link: [Watch the demo video](https://drive.google.com/file/d/15-EtFai1WsFZB
 
 ### Installation
 
-1. Clone or download this repository.  
-2. Make sure `feature_knowledge_base.json` is placed in the same folder as `main.py`.  
-3. Install dependencies:  
+1. Clone or download this repository.
+2. Navigate to the project directory:
+   ```bash
+   cd Pain-Point-to-Solution
+3. Make sure `feature_knowledge_base.json` is placed in the same folder as `main.py`.  
+4. Install dependencies:  
    ```bash
    pip install sentence-transformers
 5. Run the app:
