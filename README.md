@@ -1,7 +1,7 @@
 # Filum.ai Solution Recommender Prototype
 
 This prototype recommends Filum.ai features based on user-described business pain points. It uses semantic similarity via sentence embeddings to match user inputs with features from a knowledge base.
-Demo Link: https://drive.google.com/file/d/15-EtFai1WsFZB9o3gMQVwYKBhLBCyyHl/view?usp=sharing
+Demo Link: [Watch the demo video](https://drive.google.com/file/d/15-EtFai1WsFZB9o3gMQVwYKBhLBCyyHl/view?usp=sharing)
 ---
 
 ## Features
@@ -27,6 +27,6 @@ Demo Link: https://drive.google.com/file/d/15-EtFai1WsFZB9o3gMQVwYKBhLBCyyHl/vie
 3. Install dependencies:  
    ```bash
    pip install sentence-transformers
-4. Run the app:
-  ```bash
+5. Run the app:
+   ```bash
    python3 main.py
